@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
-Um script de linha de comando (CLI) simples e eficiente para baixar vídeos do YouTube, seja individualmente ou em lote a partir de um arquivo de texto. Este projeto segue boas práticas de Python, ideal para portfólio.
+Um script de linha de comando (CLI) simples e eficiente para baixar vídeos do YouTube, seja individualmente ou em lote a partir de um arquivo de texto. Este projeto segue boas práticas de Python.
 
 ## ⛏️ Funcionalidades
 
@@ -112,4 +112,5 @@ https://www.youtube.com/watch?v=video3
  [  ] Download de playlists
  [  ] Barra de progresso aprimorada com tqdm
  [  ] Interface gráfica (Tkinter, PyQt ou Kivy)
+
  [  ] Argumentos de linha de comando com argparse
